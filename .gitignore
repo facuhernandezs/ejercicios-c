@@ -1,0 +1,4 @@
+# ignorara archivos binarios compilados
+*.exe
+*.o
+
